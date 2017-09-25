@@ -1,1 +1,2 @@
 # hello-world
+HI,i AM HERE TO LEARN THE TECHNOLOGY 
